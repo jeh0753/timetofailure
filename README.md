@@ -15,3 +15,6 @@ Kaggle competition
 * Markov Models
 * ResNet with signal visualization
 * Dilated RNNs and Dilated CNNs
+=======
+Kaggle competition and Linear Algebra practice
+
